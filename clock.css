@@ -13,5 +13,5 @@ body h1{
     justify-content: center;
     color: rgb(0, 0, 0);
     font-weight: bolder;
-    font-size: 380px;
+    font-size: clamp(50px, 15vw, 180px);
 }
